@@ -28,7 +28,7 @@ I'm a 3rd-year IT student passionate about full-stack development and the creati
 
 - **Outlier Detection System** – Real-time anomaly detection for network packets
 
-> 👉 Explore more at [github.com/Lakhsss?tab=repositories](https://github.com/Lakshaya-Mohan?tab=repositories)
+> 👉 Explore more at [github.com/Lakshaya-Mohan?tab=repositories](https://github.com/Lakshaya-Mohan?tab=repositories)
 
 
 ---
@@ -41,7 +41,7 @@ I'm a 3rd-year IT student passionate about full-stack development and the creati
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakhsss&show_icons=true&theme=radical" alt="Lakshaya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshaya-Mohan&show_icons=true&theme=radical" alt="Lakshaya's GitHub stats" />
 </p>
 
 ---
