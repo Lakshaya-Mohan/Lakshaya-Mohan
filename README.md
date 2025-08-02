@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Lakshaya Mohan</h1>
+<h1 align="center">Hi there 👋, I'm Lakshaya M</h1>
 <p align="center">
   👩‍💻 IT Student | 💡 Tech Enthusiast | 🌐 Web Developer  
 </p>
@@ -13,7 +13,7 @@ I'm a 3rd-year IT student passionate about full-stack development and the creati
 
 ### 🧠 Skills & Tech Stack
 
-- **Languages:** Python, C++, JavaScript, HTML, CSS
+- **Languages:** Python,C,Java, JavaScript, HTML, CSS
 - **Frameworks:** Flask, React, Tailwind CSS
 - **Database:** PostgreSQL,SupaBase
 - **Tools:** Git, GitHub, VS Code, Postman, Figma
