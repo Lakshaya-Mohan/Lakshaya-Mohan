@@ -7,16 +7,16 @@
 
 ### 💬 About Me
 
-I'm a 3rd-year IT student passionate about full-stack development and the creative side of coding. I enjoy building projects that solve real-world problems. Whether it’s Python scripts or frontend animations, I enjoy bringing ideas to life through code.
+I'm a 3rd-year IT student passionate about full-stack development and the creative side of coding. I enjoy building projects that solve real-world problems. 
 
 ---
 
 ### 🧠 Skills & Tech Stack
 
 - **Languages:** Python,C,Java, JavaScript, HTML, CSS
-- **Frameworks:** Flask, React, Tailwind CSS
+- **Frameworks:** Flask, React
 - **Database:** PostgreSQL,SupaBase
-- **Tools:** Git, GitHub, VS Code, Postman, Figma
+- **Tools:** Git, GitHub, VS Code, Figma
 
 ---
 
@@ -44,6 +44,3 @@ I'm a 3rd-year IT student passionate about full-stack development and the creati
   <img src="https://github-readme-stats.vercel.app/api?username=Lakshaya-Mohan&show_icons=true&theme=radical" alt="Lakshaya's GitHub stats" />
 </p>
 
----
-
-> ⚡ “Keep building. Keep learning. Keep pushing boundaries.”
