@@ -40,6 +40,9 @@ I'm a 3rd-year IT student passionate about full-stack development and the creati
   
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshaya_Mohan?theme=light&ext=heatmap)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lakshaya-Mohan&show_icons=true&theme=radical" alt="Lakshaya's GitHub stats" />
 </p>
