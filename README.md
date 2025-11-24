@@ -39,9 +39,16 @@ I'm a 3rd-year IT student passionate about full-stack development and the creati
 - 📧 Email: lakshayamohan12@gmail.com
   
 ---
+<div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshaya_Mohan?theme=dark&ext=heatmap)
+### 🧠 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshaya_Mohan?theme=dark)
 
+---
+
+### 💻 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Lakshaya-Mohan&show_icons=true&theme=radical" alt="Lakshaya's GitHub stats" />
+
+</div>
 
 
