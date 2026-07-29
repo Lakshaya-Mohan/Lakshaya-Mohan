@@ -72,20 +72,6 @@ Raspberry Pi–based wearable device that captures printed text, performs OCR, a
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakshaya-Mohan&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshaya-Mohan&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshaya-Mohan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
 ## 💻 LeetCode
 
 <p align="center">
